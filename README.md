@@ -1,4 +1,7 @@
 # Stereo Tuner
+
+Supports cmake & OpenCV 4.x
+
 This is my modified version of [Martin Peris](http://blog.martinperis.com/)'s [StereoBM Tuner](http://blog.martinperis.com/2011/08/opencv-stereo-matching.html).
 
 This is a simple little GTK application that can be used to tune parameters for the [OpenCV](http://opencv.org/) Stereo Vision algorithms.
